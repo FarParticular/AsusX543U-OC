@@ -1,6 +1,6 @@
 # OpenCore loader for Asus X543U(X540UBR)
 
-Laptop Hardwares
+### Laptop Hardwares
 
 | Hardware      | Name                            |
 |---------------|---------------------------------|
@@ -22,6 +22,6 @@ you will need to install the program from chris1111 and also see if your network
 A new bootloader update for the laptop will be released from the moment a new version appears.
 
 ----
-Photo: 
+### Photo: 
 ![Photo](https://github.com/FarParticular/AsusX543U-OC/blob/main/Photos_and_Resources/Screen.png)
 
