@@ -17,3 +17,5 @@ you will need to install the program from chris1111 and also see if your network
 A new bootloader update for the laptop will be released from the moment a new version appears.
 
 ----
+
+
